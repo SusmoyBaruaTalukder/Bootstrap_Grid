@@ -1,0 +1,23 @@
+body
+{
+	background-color: lightgray;
+}
+.background
+{
+	background-color: #563D7C;
+	min-height: 200px;
+	margin-bottom: 20px;
+}
+.grid
+{
+	background-color: #E6CCD5;
+	min-height: 50px;
+	border: 1px solid black;
+	margin: 5px 0;
+}
+h1
+{
+	background-color: blue;
+	min-height: 50px;
+	margin:25px auto;
+}
